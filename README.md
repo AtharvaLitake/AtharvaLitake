@@ -18,9 +18,9 @@ i am undergoing an internship at Bajo foods where i am playing a vital role in s
 
 ## Education
 
-### Degree - Pune Institute of Computer Technology (2021 - 2025)
-### 11th - 12th - Sir Parshurambhau College (2019 - 2021)
-### Schooling - Vidya Niketan School (2009 - 2019)
+## Degree - Pune Institute of Computer Technology (2021 - 2025)
+## 11th - 12th - Sir Parshurambhau College (2019 - 2021)
+## Schooling - Vidya Niketan School (2009 - 2019)
 
 ## Contact
 
@@ -59,6 +59,9 @@ i am undergoing an internship at Bajo foods where i am playing a vital role in s
 <br>
 <br>
 #  GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=AtharvaLitake&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AtharvaLitake&theme=dark&hide_border=false)<br>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaLitake&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
