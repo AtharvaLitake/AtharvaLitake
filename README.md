@@ -1,9 +1,31 @@
-<h1 align="center"> Hi there ✌️👋</h1>
+# Your Name
 
-![Github Readme1](https://github.com/AtharvaLitake/AtharvaLitake/assets/112816126/84192ce9-e304-4ab8-838e-60f1c3f65828)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue.svg)](https://www.linkedin.com/in/Atharva Litake/)
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-green.svg)](https://github.com/AtharvaLitake/)
+
+## About Me
+
+Currently pursuing my undergrad at Pune Institute of computer technology in Computer engineering branch. I am a third year student having an aggregate cgpa of 9.69 , currently being the topper of the department.
+Recently, I have been exploring various domains and diving deep into each domain to see where I find my interests in . I have fascination towards full stack development and I am passionate towards front end development .
+Currently , I am exploring Flutter development and looking forward to excel in the same.
+I have participated in many hackathons and won many of them too. I have been working towards the ui/ux part of the websites and have successfully completed project in the same .
+Recently , i am undergoing an internship at Bajo foods where i am playing a vital role in suggesting ui/ux changes in the website for companies business empowerment and providing a helping hand in website development as well as maintenance.
+
+## Experience
+
+### Job Title - Web Dev Intern at Bajo Foods
+
+## Education
+
+### Degree - Pune Institute of Computer Technology (2021 - 2025)
+
+Brief description of your degree and any notable achievements.
+
+## Contact
+
+- Email: litakeatharva24@gmail.com
 
 <h2 align="center">I code with</h2>
-
 ###
 <br>
 <br>
