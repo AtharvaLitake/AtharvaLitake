@@ -58,7 +58,7 @@ i am undergoing an internship at Bajo foods where i am playing a vital role in s
 </div>
 <br>
 <br>
-#  GitHub Stats:
+<h2>GITHUB STATS</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=AtharvaLitake&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br>
 
