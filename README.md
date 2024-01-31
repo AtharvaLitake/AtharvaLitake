@@ -1,7 +1,7 @@
-# Your Name
+# Atharva Litake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue.svg)](https://www.linkedin.com/in/Atharva Litake/)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-green.svg)](https://github.com/AtharvaLitake/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva Litake-blue.svg)](https://www.linkedin.com/in/Atharva Litake/)
+[![GitHub](https://img.shields.io/badge/GitHub-AtharvaLitake-green.svg)](https://github.com/AtharvaLitake/)
 
 ## About Me
 
@@ -26,7 +26,7 @@ Brief description of your degree and any notable achievements.
 - Email: litakeatharva24@gmail.com
 
 <h2 align="center">I code with</h2>
-###
+
 <br>
 <br>
 <div align="center">
