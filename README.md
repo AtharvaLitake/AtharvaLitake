@@ -1,6 +1,6 @@
 # Atharva Litake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva Litake-blue.svg)](https://www.linkedin.com/in/Atharva Litake/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AtharvaLitake-blue.svg)](https://www.linkedin.com/in/Atharva Litake/)
 [![GitHub](https://img.shields.io/badge/GitHub-AtharvaLitake-green.svg)](https://github.com/AtharvaLitake/)
 
 ## About Me
