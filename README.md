@@ -12,9 +12,17 @@ I have participated in many hackathons and won many of them too. I have been wor
 
 ## Experience
 
-### Job Title - Web Dev Intern at Bajo Foods
+### Project Intern ( Jan 2024 - Jul 2024 )
+#### NICE
+-Developed an application to automate log troubleshooting and analysis through LLM-based chat.
+-Implemented a Langchain ReACT Agent with the help of Langchain, integrating a vector database.
+-Created an intuitive copilot-like interface using React and Tailwind enhancing the project usability.
 
-i am undergoing an internship at Bajo foods where i am playing a vital role in suggesting ui/ux changes in the website for companies business empowerment and providing a helping hand in website development as well as maintenance.
+### Web Development Intern ( Nov 2023 - Mar 2024 )
+#### Bajo Foods
+-Analyzed and created a variety of tools: KetoCalculator, eAg-A1C converter, Type-2 Diabetes Risk
+Evaluator and many more using React and Tailwind, consequently enhancing web traffic by 45% .
+-Proposed UI/UX enhancements for a live e-commerce website to boost user engagement by 30%
 
 ## Education
 
