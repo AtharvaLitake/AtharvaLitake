@@ -25,7 +25,8 @@ i am undergoing an internship at Bajo foods where i am playing a vital role in s
 ## Contact
 
 - Email: litakeatharva24@gmail.com
-
+- Resume - [Atharva_Litake_C2K21106776_Resume.pdf](https://github.com/user-attachments/files/16374028/Atharva_Litake_C2K21106776_Resume.pdf)
+  
 <h2 align="center">I code with</h2>
 
 <br>
